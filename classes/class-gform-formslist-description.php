@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:      Gravity Forms Forms List Description
+ * Plugin Name:      Forms List Description for Gravity Forms
  * Requires Plugins: gravityforms
  * Plugin URI:       https://webblerock.com
  * Description:      Adds a column displaying the description for each form in the admin forms listing.
