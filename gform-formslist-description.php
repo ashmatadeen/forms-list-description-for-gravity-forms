@@ -8,6 +8,8 @@
  * Author URI:       https://webblerock.com
  * Text Domain:      gform-formslist-description
  * Domain Path:      /languages
+ * License:          GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Version:          0.1.0
  *
  * @package          Gform_Formslist_Description
