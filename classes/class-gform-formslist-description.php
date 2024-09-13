@@ -5,7 +5,7 @@
  * Plugin URI:       https://webblerock.com
  * Description:      Adds a column displaying the description for each form in the admin forms listing.
  * Author:           Ash Matadeen
- * Text Domain:      gform-formslist-description
+ * Text Domain:      forms-list-description-for-gravity-forms
  * Domain Path:      /languages
  * License:          GPLv2 or later
  * License URI:      https://www.gnu.org/licenses/gpl-2.0.html
@@ -35,7 +35,7 @@ class GformFormsListDescription {
 	 * @return array $columns the column data including a description column.
 	 */
 	public function customise_gforms_admin_forms_list_add_column( $columns ) {
-		$columns['description'] = esc_html__( 'Description', 'gravityforms' );
+		$columns['description'] = esc_html__( 'Description', 'forms-list-description-for-gravity-forms' );
 		return $columns;
 	}
 
