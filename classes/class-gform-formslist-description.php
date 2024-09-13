@@ -15,9 +15,9 @@
  */
 
 /**
- * Class GformFormsListDescription
+ * Class FLDFGF_GformFormsListDescription
  */
-class GformFormsListDescription {
+class FLDFGF_GformFormsListDescription {
 
 	/**
 	 * Constructor.

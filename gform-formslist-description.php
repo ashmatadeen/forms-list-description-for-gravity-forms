@@ -20,4 +20,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 require plugin_dir_path( __FILE__ ) . 'classes/class-gform-formslist-description.php';
 
-$gform_formslist_description = ( isset( $gform_formslist_description ) && is_object( $gform_formslist_description ) ? $gform_formslist_description : new GformFormsListDescription() );
+$gform_formslist_description = ( isset( $gform_formslist_description ) && is_object( $gform_formslist_description ) ? $gform_formslist_description : new FLDFGF_GformFormsListDescription() );
