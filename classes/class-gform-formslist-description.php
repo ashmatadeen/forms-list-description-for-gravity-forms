@@ -2,7 +2,7 @@
 /**
  * Plugin Name:      Forms List Description for Gravity Forms
  * Requires Plugins: gravityforms
- * Plugin URI:       https://webblerock.com
+ * Plugin URI:       https://ashmatadeen.com/web-developer
  * Description:      Adds a column displaying the description for each form in the admin forms listing.
  * Author:           Ash Matadeen
  * Text Domain:      forms-list-description-for-gravity-forms
