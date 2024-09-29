@@ -1,4 +1,4 @@
-=== Gform Formslist Description ===
+=== Forms List Description for Gravity Forms ===
 Contributors: ash.matadeen
 Donate link: https://ashmatadeen.com/donate
 Tags: gforms, gravityforms, description
