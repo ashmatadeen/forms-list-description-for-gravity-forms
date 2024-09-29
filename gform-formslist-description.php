@@ -5,7 +5,7 @@
  * Plugin URI:       https://ashmatadeen.com/web-developer
  * Description:      Adds a column displaying the description for each form in the admin forms listing.
  * Author:           Ash Matadeen
- * Text Domain:      gform-formslist-description
+ * Text Domain:      forms-list-description-for-gravity-forms
  * Domain Path:      /languages
  * License:          GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
