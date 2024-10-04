@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name:      Forms List Description for Gravity Forms
- * Requires Plugins: gravityforms
  * Plugin URI:       https://ashmatadeen.com/web-developer
  * Description:      Adds a column displaying the description for each form in the admin forms listing.
  * Author:           Ash Matadeen
@@ -14,10 +13,10 @@
  * @package Gform_Formslist_Description
  */
 
-if (! defined('ABSPATH') ) {
-    die();
+if ( ! defined( 'ABSPATH' ) ) {
+	die();
 }
 
-require plugin_dir_path(__FILE__) . 'classes/class-gform-formslist-description.php';
+require plugin_dir_path( __FILE__ ) . 'classes/class-gform-formslist-description.php';
 
-$gform_formslist_description = ( isset($gform_formslist_description) && is_object($gform_formslist_description) ? $gform_formslist_description : new FLDFGF_GformFormsListDescription() );
+$gform_formslist_description = ( isset( $gform_formslist_description ) && is_object( $gform_formslist_description ) ? $gform_formslist_description : new FLDFGF_GformFormsListDescription() );
