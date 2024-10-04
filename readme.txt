@@ -13,7 +13,7 @@ Adds a column displaying the description for each form in the admin forms listin
 
 == Description ==
 
-This plugin requires [Gravity Forms](https://gravityforms.com/ "Gravity Forms"). It adds a column to show the description corresponding to form in the forms listing within wp-admin.
+This plugin requires [Gravity Forms](https://gravityforms.com/ "Gravity Forms"). It adds a column to show the corresponding description for each form in the forms listing within wp-admin.
 
 == Installation ==
 
